@@ -6,10 +6,10 @@ import {
     StyleSheet
 } from 'react-native';
 
-const logo = require('./imgs/logo.png');
-const btnJogar = require('./imgs/botao_jogar.png'); 
-const btnSobreJogo = require('./imgs/sobre_jogo.png'); 
-const btnOutrosJogos = require('./imgs/outros_jogos.png'); 
+const logo = require('./src/imgs/logo.png');
+const btnJogar = require('./src/imgs/botao_jogar.png'); 
+const btnSobreJogo = require('./src/imgs/sobre_jogo.png'); 
+const btnOutrosJogos = require('./src/imgs/outros_jogos.png'); 
 
 export default class CaraOuCoroaApp extends Component {
     render() {
